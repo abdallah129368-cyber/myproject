@@ -37,6 +37,6 @@ public class Ali {
 
         System.out.println(puzzle.check());
 
-        sc.close();
+      
     }
 }
